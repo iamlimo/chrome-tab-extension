@@ -38,7 +38,7 @@ function setBg(){
     }
     else{
         greeting = 'Good Evening'
-        document.body.style.backgroundImage  = "url('./img/night.jpg')"
+        document.body.style.backgroundImage  = "url('.git/img/night.jpg')"
     }
 }
 //Add Zeros
