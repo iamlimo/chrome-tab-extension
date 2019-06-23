@@ -1,5 +1,5 @@
 body{
-background: url('./img/morning.jpg') no-repeat;
+background: url('./img/village.png') no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
@@ -26,4 +26,11 @@ text-shadow: 2px 2px 4px #000000;
 
 #focus{
     font-size: 25px;
+}
+
+footer{
+    position: relative;
+    bottom: 0;
+    color: #fff;
+    text-align: center;
 }

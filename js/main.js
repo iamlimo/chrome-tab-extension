@@ -34,11 +34,11 @@ function setBg(){
     }
     else if( hour < 18){
         greeting.innerHTML = 'Good Afternoon';
-        document.body.style.backgroundImage  = "url('./img/afternoon.jpg')"
+        document.body.style.backgroundImage  = "url('./img/danfo.png')"
     }
     else{
         greeting = 'Good Evening'
-        document.body.style.backgroundImage  = "url('.git/img/night.jpg')"
+        document.body.style.backgroundImage  = "url('./img/national.jpg')"
     }
 }
 //Add Zeros
