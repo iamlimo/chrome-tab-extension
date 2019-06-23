@@ -1,5 +1,5 @@
 body{
-background: url('/img/morning.jpg') no-repeat;
+background: url('./img/morning.jpg') no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
